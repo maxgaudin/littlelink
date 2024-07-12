@@ -276,3 +276,12 @@ hr {
        url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-800.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-800.svg#OpenSans') format('svg'); /* Legacy iOS */
 }
+
+p.small {
+  font-size: 12px;
+  max-width: 320px;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 1.7;
+  padding-bottom:15px;
+}
