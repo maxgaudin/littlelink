@@ -282,9 +282,9 @@ hr {
 }
 
 p.small {
-  font-size: 16px;
+  font-size: 14px;
   max-width: 320px;
-  margin-top: -10px;
+  margin-top: -3px;
   text-align: left;
   line-height: 1.7;
   margin-bottom: 16px;
