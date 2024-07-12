@@ -172,7 +172,7 @@ pre > code {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 button,
 .button {
-  margin-bottom: 1rem;
+  margin-bottom: 0.4rem;
 }
 input,
 textarea,
@@ -282,7 +282,7 @@ hr {
 }
 
 p.small {
-  font-size: 15px;
+  font-size: 16px;
   max-width: 320px;
   margin-top: -10px;
   text-align: left;
