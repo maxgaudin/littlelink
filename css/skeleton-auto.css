@@ -220,12 +220,14 @@ hr {
 50% (default): True circle
 */
 .avatar {
-  width: 128px;
-  height: 128px;
+  width: 90px;
+  height: 90px;
   object-fit: contain;
   background-position: center;
-  border: 3px solid white;
-  background: #fff;
+  border: 3px solid #f3d9ae;
+  background: #DBCBB1;
+  border-radius: 40px;
+  padding: 10px;
 }
 
 /* open-sans-regular - vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic */
